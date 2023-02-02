@@ -1,0 +1,7 @@
+mysqlclient ~= 2.1.0
+SQLAlchemy
+pandas
+numpy
+mysql
+mysql.connector
+datetime
